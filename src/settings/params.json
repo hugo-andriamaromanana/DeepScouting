@@ -1,0 +1,32 @@
+{
+    "offensive_rating":{
+        "params":["Goal", "MissedShots", "Pass", "BlockedPass"],
+        "params_bool":[true,true,true,true],
+        "params_weight":[1,1,1,1],
+        "weight":1
+    },
+    "defensive_rating":{
+        "params":["Tackle", "Interception", "Clearance", "KeeperPickup"],
+        "params_bool":[true,true,true,true],
+        "params_weight":[1,1,1,1],
+        "weight":1
+    },
+    "hustle_rating":{
+        "params":["BallRecovery", "Aerial", "BallTouch","Punch"],
+        "params_bool":[true,true,true,true],
+        "params_weight":[1,1,1,1],
+        "weight":1
+    },
+    "strategy_rating":{
+        "params":["SubstitutionOn", "SubstitutionOff", "FormationChange", "OffsideGiven","OffsidePass","OffsideProvoked"],
+        "params_bool":[true,true,true,true,true,true],
+        "params_weight":[1,1,1,1,1,1],
+        "weight":1
+    },
+    "discipline_rating":{
+        "params":["Card", "Foul"],
+        "params_bool":[true,true],
+        "params_weight":[1,1],
+        "weight":1
+    }
+}
