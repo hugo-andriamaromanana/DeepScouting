@@ -1,7 +1,7 @@
 {
-    "ENG":"assets/ENG-Premier-League_22-23.csv",
-    "ESP":"assets/ESP-La-Liga_22-23.csv",
-    "ITA":"assets/ITA-Serie-A_22-23.csv",
-    "GER":"assets/GER-Bundesliga_22-23.csv",
-    "FRA":"assets/FRA-Ligue-1_22-23.csv"
+  "ENG": "assets/ENG-Premier-League_22-23.csv",
+  "ESP": "assets/ESP-La-Liga_22-23.csv",
+  "ITA": "assets/ITA-Serie-A_22-23.csv",
+  "GER": "assets/GER-Bundesliga_22-23.csv",
+  "FRA": "assets/FRA-Ligue-1_22-23.csv"
 }
